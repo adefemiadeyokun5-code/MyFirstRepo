@@ -1,2 +1,1 @@
-I have learned how to use Git and GitHub to create repositories, clone them locally, make commits, and push changes online. 
-This course has helped me understand version control and how to manage projects more effectively.
+What I have learned from this course: I have learned how to use Git and GitHub to manage files, make commits, and push changes effectively.
